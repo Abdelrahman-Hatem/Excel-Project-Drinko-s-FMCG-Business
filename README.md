@@ -32,8 +32,10 @@ Drinko, a prominent player in the Fast-Moving Consumer Goods (FMCG) industry, fa
 - **Distribution**: Transportation expenditure for product delivery.
 - **Warehousing**: Cost for keeping items in the company's warehousing facilities.
 
-## Analysis (with Pivot Tables):
+https://github.com/Abdelrahman-Hatem/Excel-Project/assets/60587162/533b5bc7-462c-4286-ad04-4a4f450377ce
 
+
+## Analysis (with Pivot Tables):
 
 
 ### Step 1: Data Setup
