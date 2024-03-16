@@ -34,6 +34,8 @@ Drinko, a prominent player in the Fast-Moving Consumer Goods (FMCG) industry, fa
 
 ## Analysis (with Pivot Tables):
 
+
+
 ### Step 1: Data Setup
 Ensure the dataset is well-structured with columns such as Material Number, Period, Brand, Size, Pack, Client, Client Type, Volume, Gross Sales, Discounts, Net Sales, Cost of Goods Sold, Distribution, and Warehousing. Create new columns named “Month" and “Year” to extract data from Period, using Right() and Left() functions.
 
