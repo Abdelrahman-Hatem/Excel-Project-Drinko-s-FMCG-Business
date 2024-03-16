@@ -1,5 +1,5 @@
 # Optimizing Product Mix and Market Strategy for Drinko's FMCG Business
-
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) 
 ## 1- Executive Summary:
 The FMCG landscape is highly competitive, demanding constant adaptation and optimization. In this case study, we searched into Drinko's extensive dataset, employing pivot tables to unlock accurate insights into sales performance, profitability, client segmentation, and brand analysis. The goal is to guide Drinko towards informed decisions that enhance its product offerings and market strategy.
 
